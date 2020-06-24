@@ -1,0 +1,52 @@
+LabVIEW Measurement	
+Writer_Version	0.92
+Reader_Version	1
+Separator	Tab
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Relative
+Operator	wei-jun.zhang
+Date	2009/12/03
+Time	16:12:30.081951
+***End_of_Header***	
+	
+Channels	1	
+Samples	0	
+Date	2009/12/03	
+Time	16:12:30.081951	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+
+Channels	1	
+Samples	0	
+Date	2009/12/03	
+Time	16:12:56.955626	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+
+Channels	1	
+Samples	0	
+Date	2009/12/03	
+Time	16:12:57.222792	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+
+Channels	1	
+Samples	0	
+Date	2009/12/03	
+Time	16:12:57.379948	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+

@@ -1,0 +1,2298 @@
+LabVIEW Measurement	
+Writer_Version	0.92
+Reader_Version	1
+Separator	Tab
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Relative
+Operator	wei-jun.zhang
+Date	2009/11/30
+Time	15:40:57.326297
+***End_of_Header***	
+	
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.326297	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.988318
+	-0.988318
+	-0.986403
+	-0.987042
+	-0.988957
+	-0.989595
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.451186	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.988318
+	-0.988957
+	-0.987680
+	-0.987042
+	-0.988957
+	-0.991510
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.529241	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.989595
+	-0.987042
+	-0.987042
+	-0.988318
+	-0.988957
+	-0.989595
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.607296	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.987042
+	-0.987042
+	-0.988957
+	-0.988318
+	-0.990871
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.700963	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.993425
+	-0.992786
+	-0.992786
+	-0.993425
+	-0.992148
+	-0.992148
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.79463	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.989595
+	-0.991510
+	-0.993425
+	-0.992786
+	-0.992786
+	-0.994063
+	-0.994063
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.888297	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.992148
+	-0.991510
+	-0.990871
+	-0.990871
+	-0.988957
+	-0.987680
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:57.966352	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.988957
+	-0.988957
+	-0.988318
+	-0.990871
+	-0.990233
+	-0.990871
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.060019	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.990871
+	-0.990233
+	-0.990871
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.994063
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.169296	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.990233
+	-0.990871
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.991510
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.294185	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.991510
+	-0.993425
+	-0.992786
+	-0.993425
+	-0.992786
+	-0.993425
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.372241	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.994063
+	-0.993425
+	-0.993425
+	-0.992786
+	-0.992148
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.450296	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992786
+	-0.995978
+	-0.991510
+	-0.992786
+	-0.991510
+	-0.994701
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.528352	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.993425
+	-0.991510
+	-0.991510
+	-0.992148
+	-0.993425
+	-0.992148
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.622018	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988957
+	-0.992148
+	-0.992786
+	-0.991510
+	-0.987680
+	-0.988957
+	-0.988318
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.700074	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.988318
+	-0.985765
+	-0.987680
+	-0.990871
+	-0.990233
+	-0.988957
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.79374	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987680
+	-0.990871
+	-0.987680
+	-0.989595
+	-0.990871
+	-0.989595
+	-0.991510
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.871796	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992786
+	-0.993425
+	-0.991510
+	-0.990871
+	-0.992786
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:58.965462	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992148
+	-0.992786
+	-0.990871
+	-0.991510
+	-0.992786
+	-0.990233
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.043518	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.989595
+	-0.987042
+	-0.988318
+	-0.988957
+	-0.988957
+	-0.990233
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.121573	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.988318
+	-0.988318
+	-0.987680
+	-0.992786
+	-0.988957
+	-0.990233
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.21524	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.992786
+	-0.993425
+	-0.992148
+	-0.992786
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.293295	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.994063
+	-0.991510
+	-0.990871
+	-0.990871
+	-0.992148
+	-0.989595
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.386962	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.988957
+	-0.988318
+	-0.988957
+	-0.985127
+	-0.988957
+	-0.989595
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.465018	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988957
+	-0.987680
+	-0.987680
+	-0.985765
+	-0.987042
+	-0.988318
+	-0.988957
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.543073	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.988318
+	-0.987042
+	-0.988957
+	-0.987680
+	-0.987680
+	-0.991510
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.63674	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.990871
+	-0.991510
+	-0.993425
+	-0.992786
+	-0.992148
+	-0.994063
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.730406	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.991510
+	-0.992786
+	-0.990871
+	-0.988318
+	-0.989595
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.808462	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.987042
+	-0.988318
+	-0.990871
+	-0.990871
+	-0.991510
+	-0.993425
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.886517	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.993425
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.993425
+	-0.989595
+	-0.992148
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:40:59.980184	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.989595
+	-0.989595
+	-0.988318
+	-0.988318
+	-0.987680
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.058239	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.991510
+	-0.988318
+	-0.987680
+	-0.988318
+	-0.989595
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.151906	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988957
+	-0.987680
+	-0.987680
+	-0.990233
+	-0.990871
+	-0.991510
+	-0.994063
+	-0.994701
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.245573	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.994063
+	-0.992786
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.992148
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.323628	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.990233
+	-0.988957
+	-0.987680
+	-0.988957
+	-0.987680
+	-0.987680
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.417294	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.010803
+	1.009527
+	1.009527
+	1.008889
+	1.006335
+	1.007612
+	1.008889
+	1.007612
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.49535	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.008250
+	1.009527
+	1.009527
+	1.006974
+	1.010165
+	1.011442
+	1.011442
+	1.014633
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.589017	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.010803
+	1.013995
+	1.015272
+	1.012080
+	1.009527
+	1.010165
+	1.008889
+	1.007612
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.682683	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.006974
+	1.006974
+	1.007612
+	1.009527
+	1.008250
+	1.009527
+	1.009527
+	1.008889
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.77635	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.013995
+	1.012080
+	1.011442
+	1.010803
+	1.010803
+	1.008250
+	1.008250
+	1.008250
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.854405	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.010165
+	1.008889
+	1.008250
+	1.008889
+	1.009527
+	1.009527
+	1.010165
+	1.010803
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:00.948072	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.010165
+	1.012080
+	1.013357
+	1.011442
+	1.013357
+	1.014633
+	1.012718
+	1.011442
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.026127	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992148
+	-0.992148
+	-0.992148
+	-0.991510
+	-0.992786
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.119794	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.993425
+	-0.992148
+	-0.990233
+	-0.991510
+	-0.992786
+	-0.990871
+	-0.989595
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.19785	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.990871
+	-0.991510
+	-0.992148
+	-0.988957
+	-0.987680
+	-0.988318
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.291516	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.985127
+	-0.988957
+	-0.989595
+	-0.989595
+	-0.989595
+	-0.992148
+	-0.992786
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.400794	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.989595
+	-0.987680
+	-0.989595
+	-0.989595
+	-0.988318
+	-0.986403
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.510072	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.990871
+	-0.992786
+	-0.992148
+	-0.990871
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.603738	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.995340
+	-0.992148
+	-0.991510
+	-0.990871
+	-0.992148
+	-0.990233
+	-0.991510
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.681794	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.990871
+	-0.990233
+	-0.990871
+	-0.992786
+	-0.990233
+	-0.987042
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.759849	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.991510
+	-0.990233
+	-0.990233
+	-0.990233
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.853516	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992148
+	-0.992148
+	-0.991510
+	-0.990233
+	-0.991510
+	-0.990233
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:01.931571	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.989595
+	-0.990233
+	-0.990871
+	-0.993425
+	-0.992786
+	-0.992148
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.009627	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.994063
+	-0.993425
+	-0.991510
+	-0.994063
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.087682	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.993425
+	-0.990233
+	-0.991510
+	-0.992148
+	-0.992148
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.181349	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.988318
+	-0.992786
+	-0.990871
+	-0.991510
+	-0.991510
+	-0.992786
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.259405	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.994063
+	-0.992786
+	-0.990871
+	-0.990233
+	-0.990233
+	-0.988318
+	-0.990871
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.33746	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.988318
+	-0.988318
+	-0.991510
+	-0.988318
+	-0.990871
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.415515	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.988957
+	-0.989595
+	-0.988318
+	-0.987042
+	-0.989595
+	-0.989595
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.509182	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988957
+	-0.989595
+	-0.987680
+	-0.989595
+	-0.992148
+	-0.990233
+	-0.991510
+	-0.994063
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.587237	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.987680
+	-0.991510
+	-0.991510
+	-0.991510
+	-0.992786
+	-0.994701
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.665293	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.994063
+	-0.992148
+	-0.993425
+	-0.992786
+	-0.994701
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.75896	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.992786
+	-0.994063
+	-0.992148
+	-0.991510
+	-0.993425
+	-0.992148
+	-0.994063
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.837015	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.993425
+	-0.992148
+	-0.994063
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.992148
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:02.915071	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.992786
+	-0.990871
+	-0.992786
+	-0.991510
+	-0.989595
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.008737	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.988318
+	-0.989595
+	-0.988957
+	-0.988957
+	-0.992786
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.086793	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.993425
+	-0.992786
+	-0.993425
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.164848	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.993425
+	-0.993425
+	-0.992148
+	-0.994701
+	-0.992786
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.258515	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.991510
+	-0.994701
+	-0.991510
+	-0.991510
+	-0.992148
+	-0.991510
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.33657	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992148
+	-0.992786
+	-0.992148
+	-0.991510
+	-0.992786
+	-0.992148
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.414626	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.991510
+	-0.990233
+	-0.990233
+	-0.989595
+	-0.988318
+	-0.988957
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.492681	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.992148
+	-0.989595
+	-0.988318
+	-0.987680
+	-0.989595
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.586348	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.990871
+	-0.992786
+	-0.987680
+	-0.987042
+	-0.988318
+	-0.988957
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.664403	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.987680
+	-0.988957
+	-0.987680
+	-0.988318
+	-0.989595
+	-0.991510
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.742459	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.990233
+	-0.990233
+	-0.991510
+	-0.990871
+	-0.992148
+	-0.994063
+	-0.994701
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.851737	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992148
+	-0.992786
+	-0.989595
+	-0.991510
+	-0.990233
+	-0.987680
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:03.976625	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.990871
+	-0.990233
+	-0.987042
+	-0.987680
+	-0.987680
+	-0.990233
+	-0.988318
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.054681	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.990871
+	-0.989595
+	-0.987680
+	-0.986403
+	-0.987680
+	-0.988957
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.132737	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.991510
+	-0.991510
+	-0.988318
+	-0.987042
+	-0.989595
+	-0.988957
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.226403	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.989595
+	-0.987042
+	-0.987680
+	-0.989595
+	-0.991510
+	-0.990871
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.304459	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.989595
+	-0.988957
+	-0.987680
+	-0.991510
+	-0.990871
+	-0.992148
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.382514	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.987680
+	-0.987680
+	-0.988318
+	-0.990871
+	-0.990233
+	-0.991510
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.460569	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988957
+	-0.988318
+	-0.988318
+	-0.990233
+	-0.992148
+	-0.992148
+	-0.993425
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.538625	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.990871
+	-0.992786
+	-0.993425
+	-0.992148
+	-0.992148
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.632292	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.993425
+	-0.992786
+	-0.992786
+	-0.995340
+	-0.992786
+	-0.992148
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.710347	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.994063
+	-0.992786
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.991510
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.788403	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992786
+	-0.994701
+	-0.991510
+	-0.992786
+	-0.992148
+	-0.991510
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.866458	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992786
+	-0.990233
+	-0.990871
+	-0.992148
+	-0.990871
+	-0.991510
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:04.960125	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.991510
+	-0.991510
+	-0.991510
+	-0.990871
+	-0.989595
+	-0.990233
+	-0.987680
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.03818	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.991510
+	-0.993425
+	-0.990871
+	-0.989595
+	-0.987680
+	-0.988318
+	-0.987042
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.116236	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.992148
+	-0.990871
+	-0.988957
+	-0.988318
+	-0.988957
+	-0.989595
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.194291	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.990871
+	-0.989595
+	-0.988318
+	-0.989595
+	-0.990871
+	-0.990233
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.287958	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987042
+	-0.988318
+	-0.990871
+	-0.987680
+	-0.988957
+	-0.990871
+	-0.990871
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.366014	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.008889
+	1.012080
+	1.012718
+	1.009527
+	1.008889
+	1.008889
+	1.006335
+	1.006974
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.444069	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.010803
+	1.012080
+	1.010803
+	1.009527
+	1.009527
+	1.009527
+	1.006335
+	1.007612
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.522124	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.012718
+	1.010165
+	1.009527
+	1.008889
+	1.006974
+	1.008889
+	1.007612
+	1.008889
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.60018	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.008250
+	1.008250
+	1.006974
+	1.008250
+	1.010803
+	1.006974
+	1.009527
+	1.009527
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.693847	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.008250
+	1.006974
+	1.008889
+	1.010803
+	1.008889
+	1.008889
+	1.011442
+	1.009527
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.771902	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.006335
+	1.008250
+	1.010803
+	1.008250
+	1.009527
+	1.010165
+	1.009527
+	1.008889
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.849957	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.006335
+	1.008889
+	1.009527
+	1.008889
+	1.008889
+	1.008889
+	1.008889
+	1.008889
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:05.928013	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.006335
+	1.009527
+	1.006335
+	1.008889
+	1.010803
+	1.009527
+	1.008889
+	1.010165
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.021679	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992148
+	-0.990871
+	-0.989595
+	-0.987042
+	-0.989595
+	-0.986403
+	-0.988957
+	-0.987042
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.099735	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.990233
+	-0.987680
+	-0.987042
+	-0.988957
+	-0.987042
+	-0.990233
+	-0.990233
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.177791	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987680
+	-0.986403
+	-0.990233
+	-0.990871
+	-0.989595
+	-0.990871
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.255846	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.988957
+	-0.989595
+	-0.992148
+	-0.992148
+	-0.992786
+	-0.994701
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.333901	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987680
+	-0.989595
+	-0.992148
+	-0.991510
+	-0.991510
+	-0.994701
+	-0.992786
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.427568	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.988957
+	-0.990871
+	-0.992786
+	-0.992148
+	-0.992786
+	-0.993425
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.505624	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.990233
+	-0.992786
+	-0.992148
+	-0.993425
+	-0.995340
+	-0.993425
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.583679	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.986403
+	-0.991510
+	-0.991510
+	-0.991510
+	-0.994701
+	-0.992148
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.661735	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.991510
+	-0.992148
+	-0.992786
+	-0.994701
+	-0.992148
+	-0.994701
+	-0.993425
+	-0.989595
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.73979	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.993425
+	-0.992148
+	-0.991510
+	-0.992786
+	-0.992786
+	-0.992148
+	-0.991510
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.833457	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992786
+	-0.992786
+	-0.992148
+	-0.992148
+	-0.992786
+	-0.992148
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.911512	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.992148
+	-0.993425
+	-0.991510
+	-0.991510
+	-0.990871
+	-0.992148
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:06.989568	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.987680
+	-0.989595
+	-0.988318
+	-0.988318
+	-0.990233
+	-0.990233
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.083234	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.985765
+	-0.987680
+	-0.988318
+	-0.989595
+	-0.990871
+	-0.989595
+	-0.993425
+	-0.992786
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.192512	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.988318
+	-0.985765
+	-0.987042
+	-0.989595
+	-0.985765
+	-0.988957
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.317401	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.992786
+	-0.988957
+	-0.987042
+	-0.989595
+	-0.987680
+	-0.988318
+	-0.989595
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.395456	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.989595
+	-0.987680
+	-0.987042
+	-0.987042
+	-0.988957
+	-0.988957
+	-0.992148
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.473512	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.988318
+	-0.985765
+	-0.987042
+	-0.989595
+	-0.991510
+	-0.990871
+	-0.992786
+	-0.993425
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.567178	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990233
+	-0.987680
+	-0.990871
+	-0.991510
+	-0.991510
+	-0.992148
+	-0.993425
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.660845	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.992148
+	-0.994701
+	-0.993425
+	-0.992148
+	-0.995340
+	-0.992148
+	-0.990871
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.785734	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.994063
+	-0.993425
+	-0.994701
+	-0.991510
+	-0.993425
+	-0.994701
+	-0.992786
+	-0.991510
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.86379	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.992786
+	-0.992148
+	-0.992148
+	-0.992148
+	-0.992148
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:07.973067	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.990871
+	-0.989595
+	-0.985127
+	-0.987680
+	-0.988318
+	-0.986403
+	-0.988957
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:08.066734	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.994063
+	-0.995340
+	-0.992786
+	-0.991510
+	-0.990871
+	-0.992148
+	-0.992786
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:08.144789	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.987680
+	-0.988318
+	-0.992148
+	-0.992148
+	-0.992786
+	-0.995340
+	-0.992148
+	-0.992148
+
+Channels	1	
+Samples	8	
+Date	2009/11/30	
+Time	15:41:08.207233	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	-0.990871
+	-0.992148
+	-0.992786
+	-0.992786
+	-0.991510
+	-0.991510
+	-0.992148
+	-0.987042
+

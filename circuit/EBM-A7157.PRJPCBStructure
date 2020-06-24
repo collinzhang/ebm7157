@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT1|SchDesignator=U_DUT1|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT2|SchDesignator=U_DUT2|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT3|SchDesignator=U_DUT3|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT4|SchDesignator=U_DUT4|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT5|SchDesignator=U_DUT5|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT6|SchDesignator=U_DUT6|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT7|SchDesignator=U_DUT7|FileName=DUT1.SchDoc
+Record=SheetSymbol|SourceDocument=Test1.SchDoc|Designator=U_DUT8|SchDesignator=U_DUT8|FileName=DUT1.SchDoc
+Record=TopLevelDocument|FileName=Test1.SchDoc
